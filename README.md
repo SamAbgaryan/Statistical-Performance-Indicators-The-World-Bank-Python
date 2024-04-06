@@ -1,12 +1,9 @@
 Statistical Performance Indicators-Python: I used Python to wrangle and analyze a dataset provided by the World Bank.
 
-Objective: To understand which regions have the lowest SPI scores in order to develop a plan for best performers to help those countries fallen behind.
+Objective: To understand which regions have the lowest SPI scores in order to develop a plan foused on helping countries fallen behind.
 
-Key Questions: Did COVID-19 pandemic act as a catalyst for improving 
-Datasets: ● orders ● orders_products_prior ● products ● customers ● departments
+Key Questions: Did COVID-19 pandemic act as a catalyst improving scores across the globe? Which countires have the higest SPI scores? Which countires have the lowest scores? Which regions have the lowest scores? What are potential ways of helping those with low scores improve performance?
 
-Tools: The data was analyzed using Python's following libraires: ● Pandas ● Numpy ● Seaborn ● Matplotlib ● SciPy
+Datasets: the dataset is not included due to size, however, it can be accessed by following the link: https://datacatalog.worldbank.org/search/dataset/0037996/Statistical-Performance-Indicators
 
-Folders: The project files are divided between the following folders: ● 01 Project Management: Project Brief ● 02 Data: Separated into two subfolders Original and Prepared Data. (Data files not uploaded to GitHub.) ● 03 Scripts: The Jupyter notebooks ● 04 Analysis: Separated into four subfolders Crosstabs,Reports,Text Files and Visualizations. ● 05 Sent to Client: The final report presented in Excel
-
-Resources: Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
+Folders: The project files are divided between the following folders: ●Project Brief ● 6.1 Sourcing Open Data ● 6.2 Exploring Relationships ● 6.3 Geographical Visualizations with Python ● 6.4 Supervised Machine Learning-Regression ● 6.5 Unsupervised Machine Learning-Clustering ● 6.6 Soucing and Time Series Analysis
